@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="4003519903">
+    <data-source source="LOCAL" name="Rails vhackero: development" uuid="eae39137-e712-4ac4-b9b5-90066ed68215">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:vhackero_development</jdbc-url>
+      <user-name>vhackero</user-name>
+      <user-password>dfdadfdddfcedfdcdfc2dfcbdfc9dfc1dfcfdfd8dfc5</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails vhackero: test" uuid="a8240c43-9dc9-41fd-8d2b-6d65a6f1e15a">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:vhackero_test</jdbc-url>
+      <user-name>vhackero</user-name>
+      <user-password>dfdadfdddfcedfdcdfc2dfcbdfc9dfc1dfcfdfd8dfc5</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails vhackero: production" uuid="13bbf37e-ef80-4386-b14d-57ba1b74f6a9">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:vhackero_production</jdbc-url>
+      <user-name>vhackero</user-name>
+      <user-password>dfdadfdddfcedfdcdfc2dfcbdfc9dfc1dfcfdfd8dfc5</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails vhackero: development" uuid="eae39137-e712-4ac4-b9b5-90066ed68215">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails vhackero: test" uuid="a8240c43-9dc9-41fd-8d2b-6d65a6f1e15a">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails vhackero: production" uuid="13bbf37e-ef80-4386-b14d-57ba1b74f6a9">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
